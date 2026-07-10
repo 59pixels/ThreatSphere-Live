@@ -23,7 +23,6 @@
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Screenshots](#screenshots)
 - [Future Scope](#future-scope)
 - [License](#license)
 
@@ -270,19 +269,6 @@ Use the toggle switch in the **top-right corner** of the dashboard:
 - If the OTX API returns an error (e.g., invalid key, rate limit, network failure), the server emits an `api_status` event with `status: "error"`.
 - The frontend displays a **countdown timer** showing when the next automatic reconnection attempt will occur.
 - In simulated mode, the system continues to generate synthetic traffic uninterrupted.
-
----
-
-## Screenshots
-
-*Add screenshots of the running application here.*
-
-<!-- Example:
-![Dashboard Overview](./screenshots/dashboard.png)
-![Live Threat Feed](./screenshots/threat-feed.png)
--->
-
----
 
 ## Future Scope
 
