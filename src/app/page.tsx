@@ -24,7 +24,6 @@ const ATTACK_TYPES_LEGEND = [
   { type: "SQL Injection ", color: "#eab308" },  // Yellow
   { type: "Malware Beacon ", color: "#d946ef" }, // Fuchsia
   { type: "Brute Force", color: "#22c55e" },     // Green
-  { type: "Unclassified", color: "#9ca3af" }     // Grey
 ];
 
 export default function Home() {
@@ -112,7 +111,7 @@ export default function Home() {
         <div>
           <h1 className="text-3xl font-bold tracking-[0.2em] uppercase text-cyan-500 drop-shadow-[0_0_15px_rgba(6,182,212,0.6)] flex items-center gap-3">
             <Globe className="w-8 h-8 animate-pulse" />
-            Cyber Overwatch
+            ThreatSphere-Live
           </h1>
           <p className="text-sm text-cyan-800 uppercase tracking-widest mt-1 ml-11">Global Threat Intelligence Platform</p>
         </div>
