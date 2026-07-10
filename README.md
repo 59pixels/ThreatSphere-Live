@@ -295,13 +295,6 @@ Use the toggle switch in the **top-right corner** of the dashboard:
 - [ ] **Docker Deployment** — Containerise the full stack for one-command deployment
 
 ---
-
-## License
-
-This project was developed for academic purposes as part of a final-year undergraduate programme. It is provided as-is for educational and demonstration use.
-
----
-
 <p align="center">
   <sub>Built with ☕ and a healthy paranoia about network security.</sub>
 </p>
