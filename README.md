@@ -23,7 +23,6 @@
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Screenshots](#screenshots)
 - [Future Scope](#future-scope)
 - [License](#license)
 
@@ -271,19 +270,6 @@ Use the toggle switch in the **top-right corner** of the dashboard:
 - The frontend displays a **countdown timer** showing when the next automatic reconnection attempt will occur.
 - In simulated mode, the system continues to generate synthetic traffic uninterrupted.
 
----
-
-## Screenshots
-
-*Add screenshots of the running application here.*
-
-<!-- Example:
-![Dashboard Overview](./screenshots/dashboard.png)
-![Live Threat Feed](./screenshots/threat-feed.png)
--->
-
----
-
 ## Future Scope
 
 - [ ] **IP Geolocation** — Resolve real IP addresses from OTX indicators using the `geoip-lite` module for accurate source mapping
@@ -295,13 +281,6 @@ Use the toggle switch in the **top-right corner** of the dashboard:
 - [ ] **Docker Deployment** — Containerise the full stack for one-command deployment
 
 ---
-
-## License
-
-This project was developed for academic purposes as part of a final-year undergraduate programme. It is provided as-is for educational and demonstration use.
-
----
-
 <p align="center">
   <sub>Built with ☕ and a healthy paranoia about network security.</sub>
 </p>
